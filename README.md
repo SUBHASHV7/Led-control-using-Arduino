@@ -60,11 +60,12 @@ Weighing Machines </br>
 ## CIRCUIT DIAGRAM
 
 ![Screenshot 2024-12-03 080818](https://github.com/user-attachments/assets/8f462f5c-00bf-411d-a14b-5a890576ced4)
-![Screenshot 2024-12-03 080858](https://github.com/user-attachments/assets/1bdb7585-e37c-42b4-89e5-4ff0dc2b798d)
-
 
 ## PROGRAM
+![Screenshot 2024-12-03 081453](https://github.com/user-attachments/assets/32492456-0509-4ede-9a3e-e4cb82f00fe6)
 
 ## OUTPUT
+![Screenshot 2024-12-03 080858](https://github.com/user-attachments/assets/90023840-52cb-47c1-b798-c8508358d023)
 
 ## RESULT
+The above Program executed successfully and shown the output in Proteus.
